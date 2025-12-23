@@ -279,14 +279,7 @@ MIT License - Feel free to use this project as a template for your own uplift mo
 
 ---
 
-## 📧 Contact
 
-**Author:** [Your Name]  
-**Email:** your.email@example.com  
-**LinkedIn:** linkedin.com/in/yourprofile  
-**GitHub:** github.com/yourusername
-
----
 
 ## 🏆 Skills Demonstrated
 
